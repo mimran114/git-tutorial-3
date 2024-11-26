@@ -1,3 +1,3 @@
 console.log("first commit  for feature");
 console.log("second commit  for feature");
-console.log("Third commit  for feature done");
+console.log("this is master branch");
